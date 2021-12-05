@@ -1,0 +1,25 @@
+.box1 {
+    border-top: 2px solid red;
+    border-left: 2px dotted blue;
+    border-right: 2px dashed green;
+    border-bottom: 2px double brown;
+    padding: 10px;
+    margin: 5px;
+    height: 300px;
+    width: 50%;
+    float: left;
+    display: none;
+}
+.box2 {
+    border-top: 2px solid red;
+    border-left: 2px dotted blue;
+    border-right: 2px dashed green;
+    border-bottom: 2px double brown;
+    padding: 10px;
+    margin: 5px;
+    height: 300px;
+    float: left;
+}
+.box2:hover {
+    background-color: blueviolet;
+}
