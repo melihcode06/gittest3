@@ -1,8 +1,8 @@
 .box1 {
-    border-top: 2px solid red;
-    border-left: 2px dotted blue;
-    border-right: 2px dashed green;
-    border-bottom: 2px double brown;
+    border-top: 3px solid red;
+    border-left: 3px dotted blue;
+    border-right: 3px dashed green;
+    border-bottom: 3px double brown;
     padding: 10px;
     margin: 5px;
     height: 300px;
